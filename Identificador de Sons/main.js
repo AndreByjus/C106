@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/uUsc2O8S0/model.json
